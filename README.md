@@ -1,5 +1,6 @@
 # ch44-gitcollab
 
-## Branches
+## Active branches
+
 - dev
 - diana-dev
